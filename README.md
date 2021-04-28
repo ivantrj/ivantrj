@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in building and deploying Machine Learning models
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently improving my Full Stack Web Development skills
 
 <!---
 ivantrj/ivantrj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
