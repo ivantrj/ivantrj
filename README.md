@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ivan
-- 👀 I’m interested in building and deploying Machine Learning models
-- 🌱 I’m currently improving my Mobile App Development skills!
+- 👀 I’m interested in building iOS Mobile Apps.
 
 <!---
 ivantrj/ivantrj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
