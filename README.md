@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan
+- 👋 Hi, I’m Ivan!
 - 👀 Experience with Web Development, specifically React. 
 - 🌱 Currently learning iOS Development.
 
