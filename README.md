@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ivan
-- 👀 I’m interested in building iOS Mobile Apps.
+- 👀 Experience with Web Development, specifically React. 
+- 🌱 Currently learning iOS Development.
 
 <!---
 ivantrj/ivantrj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
