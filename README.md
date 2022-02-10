@@ -1,15 +1,9 @@
-- 👋 Hi, I’m Ivan!
-- 👀 Experienced in Web Development, specifically React.
-- 📱 Create Flutter content.
-- 🌱 Currently learning iOS Development, and improving my Flutter skills.
+#### Hi there, I'm Ivan 👋\
+**I'm a Software Developer working in Pécs, Hungary.**\
 
-
-Hi there, I'm Ivan 👋
-I'm a Software Developer working in Pécs, Hungary.
-
-WHAT I'M UP TO?
-✨ Creating YouTube content(Flutter and SwiftUI);
-🍑 What about this?
+WHAT I'M UP TO?\
+✨ Creating YouTube content(Flutter and SwiftUI);\
+👨‍💻 Coding my own app;\
 
 BIO
 🏢 I'm currently working at E-Group ICT Software
