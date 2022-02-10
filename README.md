@@ -3,9 +3,26 @@
 - 📱 Create Flutter content.
 - 🌱 Currently learning iOS Development, and improving my Flutter skills.
 
+
+Hi there, I'm Ivan 👋
+I'm a Software Developer working in Pécs, Hungary.
+
+WHAT I'M UP TO?
+✨ Creating YouTube content(Flutter and SwiftUI);
+🍑 What about this?
+
+BIO
+🏢 I'm currently working at E-Group ICT Software
+⚙️ I use daily: .python, .js, .docker, .kubernetes, .ai, .pytorch, .swift, .flutter
+🌍 I'm mostly active within the Flutter and iOS Community
+🌱 Learning all about App Development
+📫 You can reach me on Twitter: twitter.com/ivantrj68
+⚡️ Fun fact: I love Alpacas
+
+
+
+
 <!---
 ivantrj/ivantrj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<a href="https://app.daily.dev/ivantrj"><img src="https://api.daily.dev/devcards/9aa8124e5d7a430e8d3c7b9af8e876af.png?r=xto" width="400" alt="Ivan Trajanovski's Dev Card"/></a>
