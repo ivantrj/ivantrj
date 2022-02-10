@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ivan!
-- 👀 Experience with Web Development, specifically React. 
-- 🌱 Currently learning iOS Development.
+- 👀 Experienced in Web Development, specifically React.
+- 📱 Create Flutter content.
+- 🌱 Currently learning iOS Development, and improving my Flutter skills.
 
 <!---
 ivantrj/ivantrj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
