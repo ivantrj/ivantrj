@@ -2,7 +2,7 @@
 **I'm a Software Developer working in Pécs, Hungary.**
 
 **WHAT I'M UP TO?**
-- ✨ Creating YouTube content(Flutter and SwiftUI);
+- ✨ Creating YouTube content(Web Dev, Web3, SwiftUI);
 - 👨‍💻 Coding my own app;
 
 **BIO**
