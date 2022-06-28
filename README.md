@@ -2,6 +2,7 @@
 **I'm a Software Developer working in Pécs, Hungary.**
 
 **WHAT I'M UP TO?**
+- Creating Flutter YouTube Tutorials;
 - 👨‍💻 Coding my own app;
 
 **BIO**
