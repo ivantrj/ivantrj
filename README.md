@@ -6,8 +6,8 @@
 - 👨‍💻 Coding my own app;
 
 **BIO**
-- 🏢 I'm currently working at E-Group ICT Software
-- ⚙️ I use daily: .python, .js, .docker, .kubernetes, .ai, .pytorch, .swift, .flutter
+- 🏢 I'm currently working at ruwido
+- ⚙️ I use daily: .flutter
 - 🌍 I'm mostly active within the Flutter and iOS Community
 - 🌱 Learning all about App Development
 - 📫 You can reach me on Twitter: [twitter.com/ivantrj68](https://twitter.com/ivantrj68)
