@@ -8,9 +8,7 @@
 **BIO**
 - 🏢 I'm currently working at ruwido
 - ⚙️ I use daily: flutter, js, swift, kotlin, vscode
-- 🌍 I'm mostly active within the Flutter and iOS Community
-- 🌱 Learning all about App Development
-- 📫 You can reach me on Twitter: [twitter.com/ivantrj68](https://twitter.com/ivantrj68)
+- 📫 You can reach me on Twitter: [twitter.com/ivan_trj](https://twitter.com/ivan_trj)
 - ⚡️ Fun fact: I love Alpacas
 
 
