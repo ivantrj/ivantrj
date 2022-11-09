@@ -2,7 +2,7 @@
 **I'm a Software Developer working in Salzburg, Austria.**
 
 **WHAT I'M UP TO?**
-- Creating Coding Tutorials on YouTube;
+- 📹 Creating Coding Tutorials on YouTube;
 - 👨‍💻 Coding my own app;
 
 **BIO**
