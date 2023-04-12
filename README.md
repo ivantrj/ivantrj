@@ -7,7 +7,7 @@
 
 **BIO**
 - 🏢 I'm currently working at ruwido
-- ⚙️ I use daily: flutter, js, swift, kotlin, vscode
+- ⚙️ I use daily: flutter, swiftUI, js, vscode, xcode
 - 📫 You can reach me on Twitter: [twitter.com/ivan_trj](https://twitter.com/ivan_trj)
 - ⚡️ Fun fact: I love Alpacas
 
