@@ -6,7 +6,7 @@
 - 👨‍💻 Coding my own app;
 
 **BIO**
-- 🏢 I'm currently working at ruwido
+- 🏢 I'm currently working as iOS and Android Developer
 - ⚙️ I use daily: flutter, react, nextjs, swift, js, vscode, xcode
 - 📫 You can reach me on Twitter: [twitter.com/codewithivan](https://twitter.com/codewithivan)
 - ⚡️ Fun fact: I love Alpacas
