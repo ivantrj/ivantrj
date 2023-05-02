@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A passionate mobile developer living in Austria.</h3>
 
-**WHAT I'M UP TO?**
-- 📹 Creating Coding Tutorials on YouTube;
-- 👨‍💻 Coding my own app;
-
 **BIO**
 - 🏢 I'm currently working as iOS and Android Developer
+- 👨‍💻 Creating indie apps
 - ⚡️ Fun fact: I love Alpacas
 
 
