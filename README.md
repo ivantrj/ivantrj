@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile developer living in Austria.</h3>
 
 **BIO**
-- 🏢 I'm currently working as iOS and Android Developer
+- 🏢 I'm currently working as an iOS and Android Developer
 - 👨‍💻 Creating indie apps
 - ⚡️ Fun fact: I love Alpacas
 
