@@ -1,4 +1,4 @@
-<h3 align="center">A mobile developer living in Austria.</h3>
+<h3 align="center">Mobile Developer</h3>
 
 **BIO**
 - 🏢 I'm currently working as an iOS and Android Developer
