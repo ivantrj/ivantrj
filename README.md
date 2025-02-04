@@ -1,7 +1,6 @@
 <h3 align="center">Mobile Developer</h3>
 
-**BIO**
-- 🏢 Indie Mobile Developer
+My Website - ivantrj.com
 
   
 <h3 align="left">Connect with me:</h3>
