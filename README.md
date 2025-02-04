@@ -1,9 +1,9 @@
 <h3 align="center">Mobile Developer</h3>
 
 **BIO**
-- 🏢 Mobile Developer
-- 👨‍💻 Creating content and indie apps
+- 🏢 Indie Mobile Developer
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.x.com/ivan_trj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.x.com/ivan_trj" height="30" width="40" /></a>
