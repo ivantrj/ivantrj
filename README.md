@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [ivantrj.com](ivantrj.com)
 
-- 📝 I regularly write articles on [https://ivantrj.substack.com/](https://ivantrj.substack.com/)
-
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **hello.ivantrj@gmail.com**
