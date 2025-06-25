@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Indie Mobile Developer</h3>
 
-- 🔭 I’m currently working on **secret indie apps**
-
-- 👨‍💻 All of my projects are available at [ivantrj.com](ivantrj.com)
-
-- 💬 Ask me about **flutter**
+- 🔭 I’m currently working on my **indie apps**
 
 - 📫 How to reach me **hello.ivantrj@gmail.com**
 
